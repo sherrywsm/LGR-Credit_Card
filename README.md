@@ -1,5 +1,5 @@
 # LR-CreditCard
-Logistic Regression to determine what kind of credit cardholders are likely to upgrade their cards
+Logistic Regression to predict what kind of credit cardholders are likely to upgrade their cards
 
 The marketing department for a credit card company wants to organize a campaign to convince existing holders of the company’s standard credit card to upgrade to the company’s premium card for a nominal annual fee.
 
